@@ -1,0 +1,1 @@
+# arrays_pointer_accessing-in-c
